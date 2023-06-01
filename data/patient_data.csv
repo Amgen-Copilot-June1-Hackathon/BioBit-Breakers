@@ -1,0 +1,1001 @@
+patient_id,age,gender,diagnosis,treatment_start_date,medication_name
+1,21,Male,diabetes,3/25/2009,Adrenaclick
+2,76,Female,cancer,7/29/2020,CVS Pharmacy Sport SPF 50
+3,33,Male,asthma,7/9/2015,ADVIL ALLERGY SINUS
+4,53,Female,diabetes,3/26/2016,Olanzapine
+5,41,Female,stroke,6/1/2016,Minivelle
+6,31,Female,heart disease,11/14/2003,Ban
+7,64,Bigender,heart disease,8/4/2003,Ammonium Lactate
+8,67,Male,asthma,2/3/2016,HEADACHE INSOMNIA
+9,28,Male,cancer,4/26/2017,Instant Hand Sanitizer
+10,21,Female,cancer,9/25/2002,Venelex
+11,45,Male,heart disease,8/4/2017,Captopril
+12,29,Female,cancer,7/5/2002,LBEL MAXIMUM COMFORT AND LONG-LASTING FOUNDATION SPF 10
+13,75,Female,asthma,10/5/2013,Allergen
+14,28,Female,diabetes,3/20/2001,diltiazem hydrochloride
+15,45,Male,diabetes,8/30/2016,Menstrual Pain Relief Multi-Symptom
+16,30,Female,diabetes,11/26/2022,Anti-Bacterial Hand
+17,32,Female,stroke,8/11/2009,DR.G WHITENING FORTIFIER
+18,37,Female,stroke,4/21/2022,White Birch
+19,75,Female,diabetes,10/14/2003,Simvastatin
+20,37,Male,stroke,8/18/2012,ACER RUBRUM POLLEN
+21,54,Female,cancer,1/6/2001,Rose Iron Graphite
+22,29,Female,stroke,4/6/2020,up and up ibuprofen
+23,26,Female,heart disease,3/9/2001,Fluphenazine Hydrochloride
+24,33,Male,heart disease,7/2/2011,XtraCare Wet Wipes
+25,55,Female,asthma,7/20/2017,Cartilago Argentum Joint Support
+26,73,Male,diabetes,4/22/2018,balance-n-brighten
+27,31,Male,asthma,7/21/2001,care one anti diarrheal
+28,75,Female,stroke,2/6/2018,ROBITUSSIN PEAK COLD NIGHTTIME MULTI-SYMPTOM COLD
+29,74,Male,heart disease,10/12/2010,"Pollens - Trees, Willow, Black Salix nigra"
+30,79,Male,cancer,3/21/2022,Clonazepam
+31,47,Female,asthma,7/1/2018,"Pollens - Trees, Russian Olive Elaeagnus angustifolia"
+32,26,Female,heart disease,9/15/2011,Extra Strength Pain Reliever PM
+33,48,Male,heart disease,10/16/2013,Major Vitamin A and D
+34,31,Male,asthma,1/19/2016,Aspirin
+35,51,Male,stroke,1/19/2012,3 Pack Instant Hand Sanitizer with moisturizers Lavender Scented
+36,21,Female,asthma,3/25/2000,VITAL HP
+37,26,Female,cancer,4/19/2012,ibuprofen pm
+38,40,Female,cancer,8/15/2014,Gabapentin
+39,49,Female,stroke,2/14/2018,Exelon
+40,51,Bigender,cancer,4/30/2017,Intermezzo
+41,22,Female,stroke,3/18/2014,VertiFree
+42,53,Male,stroke,6/30/2004,Mayinglong Hemorrhoids
+43,57,Male,heart disease,6/15/2015,meijer
+44,74,Female,heart disease,5/1/2013,Head and Shoulders
+45,45,Male,diabetes,3/6/2007,Dentaforce
+46,64,Female,heart disease,8/6/2009,Orange Pollen
+47,45,Male,diabetes,2/20/2005,Tobacco Leaf
+48,22,Female,heart disease,4/3/2009,Anticavity
+49,28,Female,heart disease,3/27/2015,Arnica e pl. tota 3
+50,80,Male,stroke,9/13/2012,Disney MINNIE Cotton Candy Scented Antiseptic Hand CLEANSING
+51,44,Female,asthma,12/30/2002,Hydrocodone Bitartrate And Acetaminophen
+52,33,Male,asthma,11/26/2020,symmetry Non-Alcohol Foaming Hand Sanitizer with Allantoin and Aloe
+53,55,Male,asthma,5/1/2007,TOFRANIL
+54,53,Genderqueer,stroke,11/14/2016,G.M. Collin Acne
+55,24,Female,asthma,1/21/2012,Speed Stick
+56,25,Female,diabetes,10/31/2017,Cefprozil
+57,50,Female,cancer,12/24/2007,Orange Pollen
+58,20,Genderfluid,cancer,4/25/2013,Amoxicillin
+59,43,Male,stroke,5/24/2011,Hydrocodone Bitartrate and Acetaminophen
+60,39,Male,diabetes,2/29/2012,Shopko Healing
+61,37,Female,asthma,8/29/2007,Clorazepate dipotassium
+62,26,Female,stroke,8/26/2005,CLOMIPRAMINE HYDROCHLORIDE
+63,74,Female,heart disease,4/22/2021,FLUCONAZOLE
+64,67,Female,diabetes,7/2/2000,Sulwhasoo EVENFAIR SMOOTHING FOUNDATION
+65,42,Female,asthma,1/12/2003,Losortan Potassium
+66,42,Female,asthma,5/11/2005,ck one airlight pressed powder spf 15
+67,67,Male,asthma,8/21/2003,Lamotrigine
+68,32,Female,heart disease,10/12/2006,Midazolam HCl
+69,67,Female,stroke,8/12/2000,Divalproex Sodium
+70,64,Male,cancer,6/25/2007,Northera
+71,50,Male,stroke,7/7/2003,BiferaRx
+72,64,Female,cancer,4/7/2007,Methotrexate
+73,74,Male,diabetes,3/19/2011,Oat Smut
+74,50,Male,heart disease,2/27/2020,Staples Instant Hand Sanitizer
+75,75,Female,asthma,7/23/2008,Crest 3D White
+76,31,Male,heart disease,11/18/2018,Marcaine with Epinephrine
+77,21,Male,stroke,3/18/2013,Hongo Killer
+78,74,Female,diabetes,7/29/2009,Leucovorin Calcium
+79,57,Male,stroke,1/19/2022,Neomycin and Polymyxin B Sulfates and Gramicidin
+80,42,Female,cancer,2/7/2020,Alternaria alternata
+81,64,Female,diabetes,10/1/2019,Desipramine Hydrochloride
+82,44,Female,stroke,12/26/2005,EcoCare 360
+83,51,Non-binary,diabetes,5/23/2002,Vancomycin Hydrochloride
+84,30,Female,asthma,7/22/2004,Fenofibrate
+85,73,Male,cancer,12/10/2006,Levaquin
+86,29,Male,diabetes,3/29/2001,Melvita PROSUN High protection sunscreen Broad Spectrum SPF 50
+87,69,Male,heart disease,3/29/2013,Heavy Metal Amalga Detox
+88,72,Female,cancer,2/21/2001,Fludeoxyglucose
+89,79,Female,cancer,10/9/2019,Head and Shoulders
+90,72,Female,cancer,4/28/2007,XtraCare Foam Antibacterial Hand Wash
+91,50,Female,diabetes,7/30/2004,Metronidazole
+92,46,Female,diabetes,11/30/2018,CLOMIPRAMINE HYDROCHLORIDE
+93,80,Male,cancer,2/20/2005,Loperamide Hydrochloride
+94,69,Female,heart disease,10/21/2007,ELASTIDERM DECOLLETAGE SKIN LIGHTENING COMPLEX
+95,45,Male,stroke,6/25/2012,Night-Time Cherry
+96,61,Male,diabetes,5/28/2014,Pre-Tabs DHA
+97,61,Male,cancer,8/20/2000,Inflammation
+98,32,Male,diabetes,4/14/2001,Metoprolol Tartrate
+99,61,Female,cancer,2/7/2009,Hypothalmupar
+100,44,Genderqueer,cancer,10/5/2018,OBAGI-C RX SYSTEM NORMAL-DRY
+101,64,Female,diabetes,1/31/2018,Topiramate
+102,49,Male,diabetes,5/28/2011,Vigoril for Men
+103,45,Female,heart disease,10/26/2002,Bikini Zone MEDICATED After Shave Fresh Scent
+104,29,Female,cancer,11/28/2018,Levalbuterol Hydrochloride
+105,78,Male,stroke,3/24/2005,daytime pe
+106,65,Non-binary,heart disease,4/26/2015,CARBIDOPA AND LEVODOPA
+107,20,Male,diabetes,4/11/2006,Pomada De La Campana Triple Antibiotic Pain Relief
+108,78,Female,cancer,4/2/2022,Cefprozil
+109,31,Male,cancer,8/14/2015,Clonidine Hydrochloride
+110,71,Male,heart disease,6/4/2017,FACE IT AQUA TINTED BB SPF 20 PA 02
+111,63,Female,cancer,10/28/2019,Felbamate
+112,64,Female,diabetes,9/21/2021,First Aid Pocket Pack - 40 Pieces
+113,63,Female,asthma,9/3/2003,Oxygen
+114,68,Male,cancer,8/2/2003,Ibuprofen
+115,70,Genderfluid,asthma,4/16/2000,Bio Res Q
+116,21,Female,asthma,1/15/2022,Mobic
+117,56,Male,asthma,2/2/2021,Ibuprofen
+118,30,Male,diabetes,11/26/2000,Sore Throat
+119,46,Genderqueer,asthma,10/17/2001,Ciprofloxacin
+120,42,Bigender,asthma,10/20/2000,Okyong pack
+121,58,Female,stroke,6/5/2021,citalopram hydrobromide
+122,66,Female,diabetes,5/23/2011,Cenestin
+123,42,Genderqueer,heart disease,12/21/2015,Dexmethylphenidate Hydrochloride Extended-Release
+124,76,Female,stroke,5/2/2003,FLUDROCORTISONE ACETATE
+125,44,Male,asthma,9/27/2016,Neutral Sodium Fluoride 0.2%
+126,21,Male,asthma,7/1/2012,smart sense triple antibiotic
+127,25,Male,cancer,6/26/2021,Quetiapine fumarate
+128,50,Female,heart disease,7/4/2018,"Food - Plant Source, Celery Apium graveolens"
+129,51,Female,cancer,6/16/2003,Zinc Oxide
+130,60,Female,cancer,5/1/2020,Simvastatin
+131,65,Female,cancer,3/19/2015,Air Pollution Detox
+132,73,Female,cancer,12/9/2011,Perphenazine
+133,78,Male,cancer,6/30/2018,Enalapril Maleate
+134,52,Female,asthma,4/14/2003,rx act nasal
+135,70,Male,cancer,9/22/2021,Laura mercier Tinted Moisturizer SPF-20 Fawn
+136,70,Male,asthma,9/20/2019,Hydrocodone Bitartrate and Acetaminophen
+137,72,Female,stroke,2/10/2018,MECLIZINE HYDROCHLORIDE
+138,61,Female,stroke,4/10/2005,TOMMY HILFIGER
+139,80,Male,heart disease,12/25/2008,Metoclopramide Hydrochloride
+140,70,Male,asthma,5/1/2002,Ocean Potion Instant Dry 50 Mist Sunscreen
+141,37,Male,heart disease,11/2/2012,Arterioforce
+142,57,Female,asthma,9/30/2006,Ondansetron Hydrochloride
+143,49,Female,diabetes,5/10/2003,Oxycodone and Acetaminophen
+144,72,Female,cancer,8/19/2012,RODAN FIELDS SOOTHE 4 Mineral Sunscreen BROAD SPECTRUM SPF 30
+145,47,Polygender,cancer,10/19/2008,Medi-First Pep-T-Med
+146,59,Female,diabetes,8/17/2005,Pediacare Childrens Allergy
+147,29,Male,cancer,3/23/2018,Oxaliplatin
+148,72,Male,diabetes,6/19/2004,Face Stockholm BB Natural Beauty Balm SPF 30 Shade NR 2
+149,29,Male,asthma,5/28/2004,ANBESOL MAXIMUM STRENGTH
+150,56,Female,stroke,11/22/2020,Metformin Hydrochloride
+151,41,Female,cancer,1/10/2015,Queen Perfume Hair Conditioner
+152,38,Male,heart disease,11/14/2009,Dicyclomine Hydrochloride
+153,34,Female,cancer,2/1/2001,Household Antigens
+154,60,Male,stroke,12/7/2008,Bal-Care DHA Essential
+155,53,Female,heart disease,3/22/2014,Tall Ragweed
+156,24,Male,cancer,12/2/2002,equate sinus
+157,68,Non-binary,diabetes,12/25/2011,Sinuforce
+158,75,Male,asthma,11/17/2006,Fluconazole
+159,25,Male,stroke,3/5/2007,COTTON SEED
+160,22,Non-binary,stroke,9/9/2018,pravastatin sodium
+161,73,Female,diabetes,2/26/2017,phosphate
+162,72,Agender,diabetes,7/6/2009,LES BEIGES
+163,59,Female,cancer,10/19/2012,Metoprolol Succinate
+164,31,Male,cancer,3/14/2011,Monurol
+165,74,Male,cancer,7/30/2018,Exjade
+166,50,Male,diabetes,11/24/2010,Chloraseptic Sore Throat Liquid Center
+167,48,Female,heart disease,7/12/2007,Humco Epson Salt
+168,74,Agender,cancer,1/31/2001,Isopropyl alcohol
+169,62,Female,asthma,1/11/2022,Apis Levisticum
+170,46,Male,stroke,4/20/2019,Viscum Crataegi
+171,69,Female,stroke,10/20/2001,Night Time Cold/Flu Relief Original
+172,48,Female,heart disease,3/8/2018,Herbion Naturals
+173,71,Male,stroke,11/7/2008,CALMING DYNAMICS
+174,77,Male,heart disease,10/14/2011,LISINOPRIL AND HYDROCHLOROTHIAZIDE
+175,59,Female,stroke,8/18/2007,Buphenyl
+176,54,Male,stroke,11/26/2004,Ciclopirox Olamine
+177,69,Male,asthma,7/1/2013,VISIBLE DIFFERENCE MULTI TARGETED BB CREAM BROAD SPECTRUM SUNSCREEN SPF 30 SHADE 2
+178,34,Male,asthma,6/24/2019,Lisinopril
+179,61,Polygender,stroke,9/7/2008,Zolpidem Tartrate
+180,77,Male,cancer,11/19/2008,Prednisone
+181,70,Male,stroke,4/15/2003,SUPER LIGHT TOUCH BB PACT
+182,56,Male,asthma,12/23/2016,Sertraline Hydrochloride
+183,32,Female,stroke,5/5/2020,Sochlor
+184,59,Female,stroke,2/15/2010,ShopRite Acid Reducer
+185,58,Male,stroke,5/28/2001,Chlorhexidine Gluconate
+186,22,Male,asthma,10/21/2012,Venlafaxine Hydrochloride
+187,49,Female,stroke,12/18/2022,Brintellix
+188,24,Male,diabetes,4/20/2003,Avedana Pain Relieving Roll On
+189,26,Female,stroke,8/13/2005,Systane Lubricant
+190,41,Female,stroke,8/13/2008,Irbesartan and Hydrochlorothiazide
+191,59,Female,stroke,3/14/2010,soCALM Pain Relieving
+192,64,Female,diabetes,3/14/2018,Jantoven
+193,74,Male,diabetes,9/25/2017,Antibacterial
+194,76,Female,cancer,9/4/2012,Hydralazine Hydrochloride
+195,63,Female,heart disease,2/7/2011,Terbinafine Hydrochloride
+196,51,Female,asthma,1/8/2017,Dipyridamole
+197,55,Female,asthma,2/2/2002,VECURONIUM BROMIDE
+198,57,Male,heart disease,4/20/2010,Femring
+199,76,Male,asthma,8/14/2001,Benazepril Hydrochloride
+200,48,Male,diabetes,4/29/2016,Enviroforce
+201,50,Male,stroke,8/19/2018,Terazosin Hydrochloride
+202,25,Female,diabetes,2/18/2012,itraconazole
+203,66,Genderqueer,asthma,12/10/2004,Hand Sanitizer
+204,56,Male,heart disease,4/26/2002,K-Tab
+205,80,Male,stroke,2/12/2010,Multi-Vitamin
+206,20,Male,heart disease,9/6/2013,Neutrogena Nourishing Long Wear Makeup Tone Correcting Complex Sunscreen Broad Spectrum SPF20
+207,41,Male,diabetes,6/30/2022,Buspirone Hydrochloride
+208,61,Male,asthma,5/13/2018,METOPROLOL TARTRATE
+209,42,Female,asthma,3/1/2020,Atenolol
+210,26,Genderfluid,stroke,10/2/2006,Halsa Pyrithione Zinc Dandruff - Dry Scalp Care
+211,35,Non-binary,stroke,7/30/2005,SHAGBARK HICKORY POLLEN
+212,31,Female,diabetes,2/17/2022,Calypxo Pain Relief
+213,23,Female,stroke,7/11/2010,Salonpas pain relieving JET
+214,74,Male,diabetes,2/20/2017,Oxygen
+215,22,Male,heart disease,8/14/2013,Lovastatin
+216,36,Male,asthma,8/2/2005,FATIGUE RELIEF
+217,23,Female,asthma,9/29/2011,Gelato APF
+218,34,Male,stroke,7/18/2020,Menadione
+219,77,Female,stroke,6/12/2021,Fire Ant
+220,77,Female,diabetes,4/15/2003,Pain Relief
+221,22,Female,diabetes,1/5/2021,"Dextroamphetamine Saccharate, Amphetamine Aspartate, Dextroamphetamine Sulfate and Amphetamine Sulfate"
+222,27,Female,diabetes,9/2/2015,LEVETIRACETAM
+223,21,Female,heart disease,4/2/2011,Select Brand Sunscreen
+224,46,Male,stroke,2/22/2010,diphenhydramine hcl and zinc acetate
+225,22,Female,stroke,7/5/2022,Tacrolimus
+226,32,Male,diabetes,7/31/2016,Nifedipine
+227,78,Male,cancer,9/7/2010,Dextrose
+228,41,Male,cancer,10/20/2002,Salsalate
+229,39,Genderqueer,cancer,11/26/2007,lisinopril
+230,80,Male,diabetes,8/28/2017,Klor-Con
+231,62,Male,diabetes,10/25/2018,ACID REDUCER
+232,34,Female,cancer,7/18/2019,BSS PLUS
+233,26,Male,heart disease,1/16/2018,Escitalopram oxalate
+234,29,Female,diabetes,6/19/2017,Losortan Potassium
+235,38,Male,diabetes,3/2/2008,Indium in 111 Oxyquinoline
+236,80,Female,heart disease,11/1/2018,Hydrocodone Bitartrate and Acetaminophen
+237,71,Male,diabetes,10/8/2017,SHISEIDO SHEER AND PERFECT COMPACT (REFILL)
+238,25,Female,stroke,8/28/2018,Sulwhasoo Lumitouch Base
+239,40,Female,asthma,6/9/2009,Sinus Relief
+240,30,Male,asthma,3/5/2008,Sinus Pressure
+241,48,Female,stroke,6/17/2008,Oxygen
+242,58,Female,diabetes,5/13/2003,Ondansetron Hydrochloride and Dextrose
+243,63,Genderqueer,cancer,12/19/2014,DIORSNOW WHITE REVEAL PERFECTING MAKEUP UV BASE SPF 35 BLEU CRISTAL
+244,74,Female,heart disease,1/25/2010,Carbidopa and Levodopa
+245,58,Female,heart disease,12/8/2021,leader acid control
+246,78,Male,heart disease,12/19/2001,Fungi Nail Toe and Foot
+247,42,Male,diabetes,3/23/2000,Propranolol Hydrochloride
+248,58,Genderqueer,heart disease,5/13/2011,Walgreens Muscle Rub
+249,35,Female,diabetes,6/5/2007,Aspirin
+250,28,Female,diabetes,4/25/2022,Valsartan and Hydrochlorothiazide
+251,47,Male,cancer,6/2/2015,Simcor
+252,47,Male,asthma,11/27/2010,Tramadol Hydrochloride and Acetaminophen
+253,22,Male,asthma,10/29/2007,Novana Protect Barrier
+254,50,Female,asthma,8/16/2008,AMERGE
+255,21,Male,asthma,8/17/2009,Clarinex
+256,39,Female,stroke,9/27/2016,Mellow Instant Hand Sanitizer Original
+257,68,Male,cancer,8/19/2006,FEXOFENADINE HYDROCHLORIDE
+258,61,Male,stroke,9/23/2016,Etodolac
+259,63,Female,cancer,12/13/2015,Gabapentin
+260,40,Non-binary,diabetes,4/15/2010,Focalin
+261,65,Male,stroke,11/14/2017,DOPamine Hydrochloride and Dextrose
+262,79,Genderqueer,stroke,7/15/2005,Candida albicans
+263,54,Female,diabetes,6/24/2010,simply right nicotine
+264,26,Bigender,heart disease,4/27/2005,Carp
+265,27,Female,diabetes,12/27/2013,Potassium Chloride
+266,77,Male,diabetes,5/13/2004,Zaleplon
+267,74,Male,heart disease,6/4/2006,Oxybutynin Chloride
+268,65,Female,diabetes,5/17/2007,Cranberry
+269,77,Male,diabetes,1/30/2013,Enoxaparin Sodium
+270,44,Agender,cancer,5/6/2001,Tecnu Rash Relief
+271,58,Female,diabetes,1/16/2014,CD DiorSkin Forever Flawless Perfection Fusion Wear Makeup SPF 25 - 040
+272,79,Female,asthma,7/27/2002,VESIcare
+273,64,Female,cancer,10/19/2018,De-Aging Moisturizing Day Creme With Sunscreen SPF 20
+274,27,Female,diabetes,10/16/2014,DocQLace
+275,46,Genderfluid,cancer,1/20/2015,Tartar control plus
+276,73,Female,diabetes,3/22/2002,Aspirin
+277,37,Female,diabetes,7/28/2000,Acyclovir
+278,47,Male,heart disease,7/5/2011,Aveeno Baby Mommy and Me
+279,43,Male,stroke,1/19/2022,Diflunisal
+280,32,Female,cancer,7/11/2004,CPD/ADSOL Red Cell Preservation Solution System (PL 2209)
+281,76,Male,diabetes,5/25/2017,Flurazepam
+282,55,Female,asthma,5/26/2015,FoamFresh Alco-Foam Hand Sanitizer
+283,44,Male,stroke,2/25/2013,GO TIME
+284,78,Female,diabetes,9/28/2002,Night Time Cherry
+285,65,Female,heart disease,12/9/2014,Noble G Plus
+286,35,Male,heart disease,1/17/2007,IRIS ANTIMICROBIAL HAND SANITIZER
+287,68,Female,stroke,7/16/2021,ROBAFEN COUGH FORMULA
+288,71,Male,diabetes,7/7/2004,NWC21 NATURAL SUN PROTECTOR
+289,71,Female,asthma,2/5/2009,Clopidogrel Bisulfate
+290,30,Male,cancer,8/17/2017,Amitriptyline Hydrochloride
+291,27,Female,diabetes,4/18/2005,Licorice Coughing Liquid
+292,60,Female,asthma,11/29/2016,DILUENT
+293,70,Female,heart disease,6/19/2021,Duloxetine
+294,40,Female,diabetes,3/10/2016,DG Body
+295,39,Genderqueer,stroke,7/1/2003,DiabetiDerm Antifungal
+296,38,Female,heart disease,4/24/2004,SUPER ORIGIN COTTON FINISH FOUNDATION
+297,65,Male,diabetes,12/28/2012,Dextrose and Sodium Chloride
+298,79,Male,stroke,10/31/2020,"Pollens - Trees, Elm, American Ulmus americana"
+299,44,Female,stroke,4/24/2012,O24
+300,75,Female,asthma,2/5/2008,Bupropion Hydrochloride
+301,59,Female,asthma,2/13/2006,SENSODYNE
+302,56,Male,cancer,9/14/2021,NATURCOKSINUM FLU RELIEF
+303,28,Female,cancer,2/6/2022,Amitriptyline Hydrochloride
+304,26,Male,asthma,9/22/2001,Cyclobenzaprine Hydrochloride
+305,35,Male,heart disease,9/20/2015,Umcka ColdCare Mint Chewable
+306,79,Male,heart disease,3/17/2005,Lisinopril
+307,47,Female,heart disease,8/31/2018,Coppertone
+308,57,Male,diabetes,1/6/2004,Finasteride
+309,31,Female,heart disease,12/2/2019,CVS fast relief laxative
+310,55,Female,diabetes,8/26/2016,DermaCare
+311,66,Female,cancer,4/27/2020,Denavir
+312,71,Female,heart disease,11/12/2002,OXYMORPHONE HYDROCHLORIDE
+313,74,Male,stroke,11/16/2019,Creamy Petroleum Jelly
+314,59,Male,diabetes,12/29/2006,Lamotrigine
+315,70,Female,stroke,9/17/2017,Apple Cider Antibacterial Foaming Hand Wash
+316,31,Female,cancer,12/12/2000,Instant Hand Sanitizer - Cocoa Butter
+317,73,Male,asthma,12/29/2002,No7 Protect and Perfect Day Cream Sunscreen SPF 15
+318,59,Bigender,stroke,4/4/2017,Han-I-Foam
+319,29,Male,diabetes,7/3/2004,Terazosin Hydrochloride
+320,38,Female,asthma,8/26/2002,Nutropin AQ Pen 20
+321,52,Female,diabetes,10/22/2007,Tan Expert Finish Makeup Makeup Broad Spectrum SPF 25
+322,43,Male,asthma,8/20/2016,rx act ibuprofen
+323,73,Male,asthma,5/20/2002,GENTAMICIN SULFATE
+324,55,Male,stroke,3/9/2008,Carvedilol
+325,64,Female,stroke,4/6/2019,UNITHROID
+326,74,Female,asthma,6/22/2013,Abstral
+327,58,Female,diabetes,10/15/2020,Relief
+328,45,Female,diabetes,5/30/2000,LAURA GELLER BEAUTY TUSCAN SUN SPACKLE SPF 30 PROTECTIVE UNDER MAKE-UP PRIMER TAN
+329,68,Male,diabetes,2/8/2022,Oat Smut
+330,74,Female,asthma,4/12/2021,Quetiapine Fumarate
+331,77,Male,asthma,8/31/2014,Bacteriostatic Water
+332,44,Agender,asthma,11/4/2011,Trifluoperazine Hydrochloride
+333,79,Male,diabetes,12/12/2017,Terragen HG Treatment
+334,30,Agender,stroke,7/16/2014,NouriFusion
+335,29,Female,asthma,4/23/2006,Cocklebur
+336,46,Male,diabetes,11/9/2009,Pier 1 Imports Lavender Anti-Bacterial Hand Sanitizer
+337,58,Female,diabetes,5/24/2001,Tough Guy Hand Sanitizer Wipes
+338,46,Male,diabetes,11/18/2004,ADVANCED HYDRO-LIQUID COMPACT (REFILL)
+339,48,Female,asthma,11/13/2013,APTIDINE
+340,72,Male,diabetes,2/9/2015,PHENDIMETRAZINE TARTRATE
+341,54,Male,heart disease,9/10/2013,Mucus Relief
+342,21,Female,stroke,12/29/2020,Woodwards HandClens Foaming Sanitizer
+343,31,Male,heart disease,5/9/2001,Maalox
+344,54,Male,cancer,10/2/2002,Oxygen
+345,76,Male,heart disease,6/22/2000,TRITICUM AESTIVUM POLLEN
+346,21,Female,asthma,8/26/2000,Mirapex
+347,31,Female,heart disease,10/8/2019,PreviDent
+348,73,Male,heart disease,2/12/2010,Family Wellness Acid Reducer
+349,80,Male,cancer,1/4/2013,Bumetanide
+350,39,Non-binary,asthma,11/14/2010,BONE REPAIR HP
+351,36,Female,diabetes,1/28/2006,Banana Boat Protective Dry SPF 15
+352,74,Male,asthma,3/13/2011,Revlimid
+353,78,Female,asthma,4/1/2000,DiorSnow White Reveal UV Shield Loose Powder Tender Peach 003
+354,75,Female,heart disease,10/21/2003,Clotrimazole
+355,65,Female,heart disease,3/23/2022,Bio Electrolyte
+356,56,Male,heart disease,10/20/2008,Vancomycin Hydrochloride
+357,69,Female,stroke,9/9/2007,Hydromorphone Hydrochloride
+358,42,Male,stroke,8/27/2011,Ultra Nutrition Day
+359,31,Male,diabetes,7/3/2007,Fast Mucus Relief
+360,68,Male,asthma,9/7/2006,Good Care Surgical Brush With Nail Cleaner
+361,72,Female,diabetes,11/26/2014,Amoxicillin and Clavulanate Potassium
+362,62,Female,asthma,11/20/2011,LBEL EFFET PARFAIT MINERAL NATURAL SKIN EFFECT MOUSSE FOUNDATION SPF 16
+363,80,Female,stroke,6/29/2005,Oral Saline Laxative
+364,25,Male,heart disease,6/18/2002,GOOD NEIGHBOR PHARMACY DIAPER RASH CREAMY
+365,57,Polygender,cancer,3/21/2010,IOPE SS
+366,35,Female,heart disease,12/2/2010,Dihydroergotamine Mesylate
+367,77,Female,cancer,9/8/2019,good neighbor pharmacy nicotine
+368,37,Female,heart disease,1/14/2000,babies r us ibuprofen
+369,69,Polygender,asthma,6/16/2010,Rite Aid Ultra Strength Muscle Rub
+370,23,Female,asthma,6/27/2016,Oxcarbazepine
+371,20,Male,cancer,8/11/2021,Ibuprofen
+372,51,Female,asthma,7/23/2022,Muscle and Joint HRX
+373,30,Female,cancer,5/11/2016,Antibiotic
+374,61,Agender,heart disease,3/18/2015,FLUVIRIN
+375,49,Male,stroke,1/31/2001,GERI-LANTA SUPREME CHERRY
+376,55,Male,cancer,3/6/2006,LANEIGE BB Cushion Dark
+377,58,Male,diabetes,3/30/2014,NEXIUM
+378,27,Polygender,asthma,4/28/2001,Western Water Hemp
+379,47,Female,heart disease,3/17/2007,Levofloxacin
+380,34,Female,asthma,2/11/2012,Voriconazole
+381,59,Female,diabetes,5/5/2016,Amoxicillin and Clavulanate Potassium
+382,74,Male,stroke,4/8/2019,Promethazine Hydrochloride
+383,77,Male,stroke,5/29/2019,Folic Acid
+384,67,Female,heart disease,7/13/2009,Reliaderm
+385,75,Male,heart disease,8/17/2019,Virustat
+386,37,Genderqueer,cancer,3/29/2000,famotidine
+387,67,Female,heart disease,1/2/2021,Clonidine Hydrochloride
+388,46,Male,asthma,12/29/2015,Degree
+389,30,Genderfluid,stroke,3/8/2003,Hypericum Bryophyllum
+390,55,Female,heart disease,11/29/2016,Nicotine
+391,55,Male,diabetes,4/28/2005,Garnier Fructis Antidandruff
+392,78,Male,stroke,1/1/2017,Loratadine and Pseudoephedrine
+393,24,Male,diabetes,11/4/2020,Traumeel
+394,39,Female,stroke,1/4/2011,CALENDULA DIAPER RASH CREAM
+395,59,Female,stroke,1/30/2015,Horseradish
+396,59,Female,diabetes,3/15/2008,Type 4 Noise Max
+397,34,Male,diabetes,1/23/2014,Metoprolol Tartrate
+398,55,Female,diabetes,11/1/2000,nighttime cold and flu relief
+399,68,Female,cancer,8/5/2003,Magnesium sulf Conchae Special Order
+400,56,Female,cancer,7/12/2016,Reflux and Heartburn
+401,35,Female,cancer,3/10/2006,Metformin Hydrochloride
+402,41,Male,asthma,9/19/2020,POLYNESIA LAGOON WATER HYDRO EYE
+403,56,Female,asthma,4/3/2008,Lustra-AF
+404,53,Male,stroke,3/15/2021,AprilFresh Roll-On Anti-Perspirant Deoderant
+405,68,Female,asthma,5/14/2006,Slimming Sap Patch
+406,38,Female,diabetes,11/11/2010,Seroquel
+407,25,Male,diabetes,12/16/2011,Herring
+408,58,Female,cancer,8/4/2019,Skin So Soft Bug Guard Plus IR3535
+409,39,Female,stroke,11/12/2005,FORTAZ
+410,61,Male,heart disease,2/22/2002,Humira
+411,61,Non-binary,diabetes,12/3/2007,Oxygen
+412,24,Male,diabetes,11/2/2011,Indomethacin
+413,20,Male,cancer,4/7/2005,Antioxidant Day SPF 15
+414,46,Female,stroke,6/7/2016,Cephalexin
+415,60,Male,stroke,3/19/2017,Lamotrigine
+416,26,Female,stroke,6/15/2003,ck one 3-in-1 face makeup
+417,38,Female,diabetes,11/23/2021,Good Sense Pain Relief
+418,36,Female,asthma,6/16/2003,Nabumetone
+419,70,Male,heart disease,8/4/2021,Icy Hot Back and Large Areas
+420,39,Female,diabetes,8/6/2002,Cover Fx BB Gel Mattifying Anti-Blemish N Light
+421,76,Female,cancer,1/12/2001,Antiseptic
+422,23,Male,heart disease,3/11/2007,Oxycodone and Acetaminophen
+423,67,Male,stroke,8/21/2010,Skin Activator
+424,32,Polygender,asthma,11/2/2009,Recombinate
+425,78,Female,stroke,12/25/2007,Risperidone
+426,29,Male,diabetes,2/13/2009,Cleocin Hydrochloride
+427,69,Agender,asthma,12/4/2011,Treatment Set TS347226
+428,33,Male,diabetes,3/28/2012,Premarin
+429,23,Female,heart disease,2/6/2011,Haloperidol
+430,56,Male,asthma,12/31/2013,Leader Nite Time Cold Flu Relief
+431,68,Female,cancer,1/2/2009,Beet
+432,79,Male,asthma,5/9/2006,Duane Reade
+433,66,Female,heart disease,8/26/2022,pain reliever
+434,79,Agender,asthma,3/18/2009,"Neomycin and Polymyxin B Sulfates, Bacitracin Zinc and Hydrocortisone"
+435,73,Bigender,stroke,1/30/2013,Pain Stoppers Regular
+436,77,Female,stroke,9/7/2004,A.H.C Real Eye For Face
+437,58,Female,stroke,10/10/2010,Sisal
+438,75,Male,cancer,12/28/2019,Rugby
+439,39,Male,cancer,10/27/2009,Enoxaparin Sodium
+440,47,Male,asthma,2/16/2022,TOPCARE
+441,43,Female,heart disease,6/12/2013,nicorelief
+442,64,Female,heart disease,11/27/2000,LACHESIS MUTUS
+443,40,Female,stroke,2/21/2013,PREPARATION H COOLING GEL
+444,29,Male,diabetes,4/28/2015,ShopRite Nasal Decongestant
+445,25,Male,cancer,2/23/2000,Oxytocin
+446,22,Bigender,heart disease,9/1/2022,Oxycodone Hydrochloride
+447,31,Male,heart disease,3/31/2019,"Nicotine Polacrilex, Original"
+448,58,Male,heart disease,4/19/2004,Sulindac
+449,25,Female,stroke,2/16/2001,Homeopathic Sleep Formula
+450,35,Male,heart disease,2/6/2006,TRICHOPHYTON MENTAGROPHYTES
+451,21,Female,cancer,5/20/2014,Anticavity Fluoride Rinse
+452,53,Male,cancer,11/18/2006,Head and Shoulders Conditioner
+453,42,Male,cancer,10/24/2014,Promethazine Hydrochloride
+454,51,Male,diabetes,4/20/2017,Antibacterial Foam
+455,41,Male,cancer,2/9/2022,Oxybutynin Chloride
+456,23,Male,asthma,7/25/2016,MANGO BUTTER LIPSTICK
+457,79,Female,cancer,5/2/2019,Tussin Original
+458,72,Female,asthma,9/4/2003,Penicillin V Potasium
+459,49,Male,cancer,12/24/2009,GABAPENTIN
+460,45,Female,cancer,11/2/2019,OXYGEN
+461,75,Female,diabetes,4/30/2015,Good Neighbor Pharmacy Antibiotic and Pain Relief
+462,64,Male,stroke,3/10/2014,Heartburn Relief
+463,63,Female,stroke,3/16/2004,Nafcillin
+464,57,Female,stroke,9/23/2020,Red Kidney Beans
+465,24,Female,asthma,6/25/2021,Lidocaine Hydrochloride
+466,47,Male,diabetes,5/10/2000,Piperacillin and Tazobactam
+467,56,Male,diabetes,3/10/2020,Povidone-Iodine
+468,52,Male,cancer,1/18/2009,Asper-Flex
+469,61,Male,cancer,6/18/2001,Prednisone
+470,63,Male,heart disease,3/9/2013,Cartia
+471,60,Male,diabetes,10/24/2022,Matulane
+472,64,Female,stroke,9/6/2012,Mirtazapine
+473,72,Female,asthma,3/17/2017,amoxicillin and clavulanate potassium
+474,44,Male,cancer,2/21/2008,Reed Canary Grass
+475,44,Female,asthma,4/7/2003,triple antibiotic
+476,36,Male,heart disease,10/20/2006,Baclofen
+477,39,Male,heart disease,11/1/2011,Quality Choice Nighttime Cold and Flu
+478,31,Female,cancer,4/8/2020,Meijer Sport SPF 50
+479,65,Female,stroke,7/12/2016,Dye-Free Wal-Dryl
+480,26,Female,diabetes,11/19/2006,Dextrose and Sodium Chloride
+481,70,Bigender,stroke,7/9/2009,Childrens Plus Multi-Symptom
+482,55,Male,cancer,4/19/2013,Levetiracetam
+483,28,Male,asthma,1/7/2000,Koh Gen Do Maifanshi Triple Lighting Foundation
+484,67,Genderfluid,cancer,10/13/2014,Dramamine Original Formula
+485,80,Male,cancer,5/19/2004,SALICYLIC ACID
+486,59,Male,diabetes,1/31/2002,Furosemide
+487,64,Female,stroke,11/19/2008,Milk of Magnesia Original
+488,48,Female,heart disease,2/21/2016,Acticlate
+489,77,Female,asthma,4/14/2015,Lidocaine Hydrochloride and Epinephrine
+490,62,Female,heart disease,2/19/2012,Helium Oxygen Mix 70/30
+491,48,Female,heart disease,12/26/2020,Cheratussin AC
+492,80,Female,cancer,5/12/2006,Colgate Optic White Platinum
+493,20,Female,cancer,3/25/2002,Latuda
+494,48,Agender,diabetes,3/13/2001,Proformance Foam Alcohol Sanitizer
+495,36,Male,stroke,8/26/2020,CARBIDOPA AND LEVODOPA
+496,33,Female,stroke,8/28/2018,Refresh Foaming Instant Hand Sanitizer
+497,56,Male,diabetes,9/17/2004,BIRDS GARDEN LIP BALM
+498,43,Female,heart disease,1/28/2021,Myorisan
+499,37,Female,cancer,2/27/2010,Pramipexole Dihydrochloride
+500,37,Female,asthma,1/25/2000,Hemostatic Solution
+501,80,Female,stroke,9/9/2011,Mannitol
+502,27,Female,diabetes,12/6/2021,Acetaminophen and Codeine Phosphate
+503,55,Female,stroke,7/27/2020,ELF TINTED MOISTURIZER
+504,42,Female,cancer,3/26/2007,Dermarest
+505,42,Male,heart disease,12/22/2014,Meloxicam
+506,70,Male,diabetes,11/2/2014,Pomada de Sulfa
+507,27,Male,stroke,5/19/2001,Sterile Water
+508,22,Male,stroke,10/16/2011,Risperidone
+509,79,Female,diabetes,7/1/2012,Dexamethasone
+510,65,Male,stroke,3/11/2022,Oxazepam
+511,20,Male,heart disease,4/4/2001,Simvastatin
+512,74,Female,cancer,8/3/2004,MBM 8 Small Intestine
+513,80,Male,stroke,1/14/2012,Levothyroxine Sodium
+514,40,Genderqueer,asthma,4/29/2013,EUPATORIUM PERFOLIATUM
+515,67,Female,cancer,1/10/2021,Lisinopril and Hydrochlorothiazide
+516,40,Female,asthma,1/24/2004,ShopRite Adult Tussin
+517,62,Female,heart disease,8/20/2009,Cortizone 10
+518,71,Female,cancer,8/10/2011,Fexofenadine Hydrochloride
+519,71,Male,asthma,10/4/2009,Horse Fly
+520,46,Male,heart disease,3/9/2012,Gas Relief
+521,80,Female,stroke,1/3/2019,Bowel Digestive Care
+522,57,Female,cancer,5/1/2016,ALPROLIX
+523,68,Male,cancer,6/16/2010,Botrytis
+524,58,Male,cancer,1/7/2010,LBEL FILLING EFFECT FOUNDATION SPF 10
+525,69,Male,heart disease,4/11/2022,Losartan Potassium
+526,50,Genderqueer,cancer,6/28/2007,La Roche Posay Laboratoire Dermatologique
+527,48,Male,asthma,4/4/2000,Regular Strength Antacid Calcium Supplement
+528,45,Male,stroke,9/30/2006,Bromfenac
+529,79,Male,heart disease,6/24/2006,Zolpidem Tartrate
+530,70,Male,asthma,9/20/2004,Renewal 7-in-1 Anti-Aging Vitamin
+531,25,Male,diabetes,1/28/2011,Doxazosin Mesylate
+532,27,Female,heart disease,5/22/2003,JUNIOR STRENGTH ADVIL
+533,75,Male,diabetes,3/25/2004,Daytime Nighttime Sinus Relief
+534,32,Female,diabetes,10/24/2009,PDI Sani-Hands for Kids
+535,64,Female,asthma,5/2/2012,EXTENDED PHENYTOIN SODIUM
+536,75,Male,cancer,6/23/2009,Orenitram
+537,44,Male,asthma,3/12/2004,CHILDRENS ADVIL
+538,38,Non-binary,heart disease,3/8/2006,Levoxyl
+539,33,Male,heart disease,7/19/2004,pioglitazone hydrochloride
+540,28,Non-binary,heart disease,6/11/2006,White Ash
+541,31,Genderqueer,cancer,12/12/2016,First Aid Antiseptic
+542,47,Female,heart disease,3/15/2021,Chloroquine phosphate
+543,23,Female,heart disease,11/26/2010,Bystolic
+544,59,Male,heart disease,9/28/2014,Metronidazole
+545,50,Male,stroke,12/30/2007,BIOXIDEA MIRACLE 48 EXCELLENCE DIAMOND MASK
+546,74,Female,cancer,8/9/2016,Lamotrigine
+547,37,Male,heart disease,4/24/2013,ANTIMICROBIAL FOAMING
+548,65,Female,stroke,1/11/2013,Prairie Sage
+549,44,Male,asthma,10/3/2000,Anti-Bac Concentrate
+550,66,Agender,heart disease,5/1/2022,Lithium Carbonate
+551,20,Female,heart disease,12/14/2004,LEADER Castor
+552,75,Female,diabetes,7/10/2021,leader gas relief
+553,58,Male,stroke,1/30/2006,Lovenox
+554,59,Female,asthma,6/8/2020,OFFBite and Itch Rel
+555,60,Male,heart disease,11/15/2018,Oat Grain
+556,22,Female,diabetes,9/22/2014,Sertraline Hydrochloride
+557,67,Male,asthma,4/16/2015,Alcohol
+558,41,Male,diabetes,8/9/2013,Daily Moisturizing
+559,26,Male,asthma,3/2/2006,Lettuce
+560,38,Female,asthma,3/23/2008,aspirin
+561,41,Female,stroke,5/5/2020,NEOMYCIN SULFATE
+562,58,Female,heart disease,10/2/2022,Potassium Chloride in Dextrose and Sodium Chloride
+563,63,Male,heart disease,6/12/2005,PAROXETINE
+564,27,Polygender,diabetes,7/18/2019,Fear and Phobia
+565,72,Female,heart disease,12/11/2012,ADSOL Red Cell Preservation Solution System in Plastic Container (PL 146 Plastic)
+566,69,Male,cancer,4/8/2014,Sunmark
+567,57,Female,cancer,1/19/2012,Chloraseptic Sore Throat Liquid Center
+568,40,Male,cancer,1/31/2008,Lymph 1
+569,37,Male,diabetes,2/25/2007,Preferred Plus Sinus
+570,20,Female,stroke,12/25/2009,Byetta
+571,72,Male,cancer,7/14/2022,SunMark Acid Reducer
+572,45,Female,heart disease,3/24/2010,PHARMACYS PRESCRIPTION
+573,55,Male,asthma,9/26/2001,Ciprofloxacin
+574,29,Male,cancer,4/12/2008,Lisinopril
+575,35,Male,stroke,7/8/2008,BOTOX
+576,70,Male,diabetes,3/6/2022,SINGULAIR
+577,42,Female,stroke,12/9/2004,Sysco
+578,51,Non-binary,asthma,10/1/2018,Magnesium Citrate
+579,33,Female,asthma,5/24/2004,Hydrogen Peroxide
+580,54,Genderfluid,cancer,12/7/2022,Givenchy Fluid Foundation Airy-light Mat Radiance SPF 20 Tint 2
+581,24,Female,diabetes,7/7/2008,Mizani Scalp Care Conditioner Antidandruff Conditioner
+582,45,Male,stroke,10/23/2011,Insomnia
+583,72,Female,heart disease,3/28/2018,BioGtuss
+584,29,Polygender,stroke,9/12/2011,CLOMIPRAMINE HYDROCHLORIDE
+585,39,Female,cancer,2/21/2001,Spironolactone
+586,39,Female,asthma,1/10/2011,Porcelana Day Skin Lightening
+587,43,Female,cancer,2/26/2001,Leader Milk of Magnesia
+588,74,Male,stroke,7/12/2018,THE ORIGINAL NATURAL HERB COUGH DROPS
+589,77,Male,cancer,9/19/2000,Ketorolac Tromethamine
+590,42,Male,diabetes,6/18/2018,Propranolol Hydrochloride
+591,39,Male,asthma,10/16/2018,Lil Drug Store Multi-Symptom Sinus Relief
+592,37,Female,asthma,10/9/2018,Perricone
+593,26,Male,heart disease,5/16/2009,"Cockroach, German"
+594,20,Male,stroke,5/19/2015,7 Select Childrens Allergy Relief
+595,30,Female,asthma,9/23/2010,Cytarabine
+596,76,Male,cancer,12/7/2015,mucus er
+597,80,Female,heart disease,10/31/2020,Gallbladder Dr.
+598,51,Male,asthma,6/17/2019,ARNICA MONTANA
+599,43,Genderfluid,diabetes,1/2/2020,PredniSONE
+600,64,Male,stroke,8/30/2011,Acetaminophen And Codeine
+601,65,Male,heart disease,11/22/2007,Keppra
+602,27,Male,cancer,12/6/2014,Tropicamide
+603,50,Male,diabetes,9/12/2015,Oxygen
+604,60,Female,stroke,5/3/2019,MEFOXIN
+605,36,Female,diabetes,7/30/2012,Treatment Set TS329066
+606,51,Male,diabetes,12/3/2018,Sunmark fiber laxative
+607,33,Female,cancer,7/6/2007,Antibacterial Body Wash
+608,58,Female,stroke,7/26/2016,GRANISETRON HYDROCHLORIDE
+609,28,Agender,asthma,5/25/2015,Propafenone Hydrochloride
+610,49,Female,heart disease,7/20/2001,Hydroxocobalamin
+611,73,Female,cancer,1/14/2018,DANDRUFF CONDITIONER
+612,59,Female,stroke,7/27/2006,EPICOCCUM NIGRUM
+613,25,Female,heart disease,6/18/2004,Perfecting Liquid Foundation Toffee Bronze
+614,72,Male,stroke,2/6/2014,Doxazosin mesylate
+615,27,Female,heart disease,10/5/2019,PPH Prevention
+616,58,Female,diabetes,12/20/2010,Vitamin K1
+617,39,Male,stroke,8/2/2007,Potassium Chloride
+618,66,Male,diabetes,5/11/2004,Baclofen
+619,44,Female,cancer,11/9/2014,DOK EXTRA STRENGTH STOOL SOFTENER
+620,61,Female,asthma,11/3/2000,DUCK FEATHERS
+621,53,Male,cancer,2/3/2009,Enchanted Moments Candy Apple Hand Sanitizer
+622,59,Female,diabetes,5/20/2002,Nevirapine
+623,54,Male,heart disease,9/28/2015,Venlafaxine Hydrochloride
+624,23,Male,diabetes,9/21/2010,Montelukast
+625,70,Female,cancer,3/19/2006,EGF Premium Whitening Milk
+626,79,Male,diabetes,2/26/2017,Clonidine Hydrochloride
+627,54,Female,asthma,8/10/2022,Divalproex Sodium
+628,57,Male,asthma,9/2/2015,Prochlorperazine Maleate
+629,52,Male,diabetes,7/13/2002,Sodium Chloride
+630,61,Female,cancer,4/11/2004,fomepizole
+631,55,Female,asthma,8/8/2018,IMAGE ESSENTIALS
+632,45,Female,diabetes,9/11/2015,PCXX ONE MINTE GEL MARSHMALLOW FLOAT
+633,52,Female,stroke,11/21/2008,DG Health Ibuprofen
+634,57,Female,asthma,8/22/2015,Eucalyptus Sap Patch
+635,31,Agender,diabetes,11/8/2011,Inflammation
+636,75,Female,diabetes,12/10/2015,Lamotrigine
+637,41,Female,diabetes,1/6/2000,risperidone
+638,79,Male,diabetes,11/3/2013,ciprofloxacin
+639,22,Female,cancer,6/15/2016,Acetone Alcohol
+640,59,Female,asthma,8/10/2001,Chrysosplenium Chamomilla
+641,73,Non-binary,cancer,12/21/2017,Alba Hawaiian Green Tea Sunblock SPF 45
+642,32,Female,asthma,3/11/2003,Aquaphor Healing
+643,64,Male,cancer,11/10/2021,Clotrimazole
+644,52,Male,stroke,1/31/2018,Digoxin
+645,40,Male,diabetes,2/18/2020,Depo-Medrol
+646,64,Male,cancer,7/31/2005,Simcor
+647,38,Female,cancer,3/25/2000,Salsalate
+648,66,Male,asthma,12/10/2020,Tikosyn
+649,49,Male,stroke,5/14/2001,Enteric Coated Aspirin
+650,56,Female,stroke,1/5/2022,Rynex
+651,73,Female,asthma,6/10/2022,Aire-Master Sanitizer Gel vit e/a
+652,44,Male,diabetes,10/23/2014,Ranitidine
+653,52,Female,stroke,10/9/2021,"Standardized Grass Pollen, Sweet Vernal Grass"
+654,73,Male,cancer,10/26/2004,Tencon
+655,35,Male,stroke,3/16/2003,Furosemide
+656,72,Female,diabetes,10/27/2020,Prochlorperazine Maleate
+657,75,Agender,cancer,11/14/2008,Pecan Nut
+658,22,Male,stroke,1/5/2020,Venlafaxine
+659,68,Female,diabetes,4/8/2016,Klonopin
+660,30,Male,heart disease,8/27/2000,Up and Up Nicotine
+661,36,Agender,stroke,6/18/2018,HYDROCODONE BITARTRATE AND ACETAMINOPHEN
+662,54,Female,asthma,3/11/2007,Senna-S Laxative
+663,36,Female,stroke,10/14/2020,Fenofibrate
+664,64,Male,stroke,7/2/2007,D TIME SINUS
+665,67,Female,asthma,6/4/2000,Bystolic
+666,74,Female,heart disease,12/25/2011,Rabbitbush
+667,77,Male,cancer,9/15/2015,Budeprion
+668,39,Male,heart disease,8/1/2014,MORPHINE SULFATE
+669,26,Male,cancer,10/29/2010,Drainage
+670,32,Female,cancer,8/28/2002,LACTULOSE
+671,48,Female,diabetes,12/22/2007,All Day Allergy
+672,50,Male,heart disease,7/1/2004,Benicar HCT
+673,77,Female,cancer,7/18/2011,SHISEIDO UV PROTECTIVE COMPACT (REFILL)
+674,67,Female,stroke,5/30/2013,"Dextroamphetamine saccharate, amphetamine aspartate monohydrate, dextroamphetamine sulfate and amphetamine sulfate"
+675,56,Non-binary,cancer,3/28/2003,Alprazolam
+676,33,Male,asthma,11/6/2016,ATO-K
+677,43,Female,diabetes,8/20/2005,Neutrogena Oil Free Acne Stress Control
+678,49,Male,asthma,5/14/2006,FAMILY WELLNESS ANTIFUNGAL
+679,31,Genderqueer,cancer,7/30/2009,Good Neighbor Pharmacy Allergy
+680,44,Male,asthma,1/5/2020,Sodium Chloride
+681,76,Male,asthma,1/25/2019,Ironman Glory
+682,27,Female,stroke,12/7/2010,Escitalopram
+683,20,Male,cancer,3/7/2015,La Roche-Posay Laboratoire Dermatologique Anthelios 45
+684,46,Female,heart disease,8/1/2002,Cefpodoxime Proxetil
+685,56,Male,heart disease,4/7/2017,Gellert Joint Care
+686,63,Male,heart disease,6/10/2013,Verapamil Hydrochloride
+687,24,Male,heart disease,3/7/2004,GAMMAGARD S/D
+688,61,Male,heart disease,11/26/2002,Demeclocycline Hydrochloride
+689,63,Female,heart disease,11/15/2005,Apricot
+690,67,Male,cancer,1/25/2005,Propranolol Hydrochloride
+691,44,Male,stroke,10/16/2004,Theragesic Creme
+692,30,Polygender,stroke,7/22/2009,DONEPEZIL HYDROCHLORIDE
+693,50,Male,diabetes,3/20/2001,METFORMIN HYDROCHLORIDE
+694,55,Female,cancer,8/19/2012,Phentermine Hydrochloride
+695,76,Genderqueer,cancer,2/24/2008,Iceberg Lettuce
+696,33,Female,stroke,1/21/2008,Hydrocortisone
+697,44,Genderqueer,heart disease,3/3/2003,ShopRite Ni Calm
+698,38,Male,diabetes,7/26/2013,Lansoprazole
+699,76,Female,asthma,1/7/2011,CHLORZOXAZONE
+700,66,Female,diabetes,9/4/2008,CEPHALEXIN
+701,43,Male,diabetes,1/24/2014,Lice Treatment
+702,80,Polygender,stroke,9/26/2003,Natural herb
+703,39,Male,stroke,11/25/2003,ClearCalm 3 Acne Treatment Mask
+704,34,Female,cancer,12/5/2016,walphed d
+705,68,Female,cancer,11/3/2006,Ropinirole Hydrochloride
+706,57,Genderqueer,asthma,11/5/2010,MoReturn Hair
+707,70,Male,diabetes,11/2/2004,PRAVASTATIN SODIUM
+708,39,Male,stroke,4/18/2018,All Day Pain Relief
+709,37,Female,heart disease,2/16/2011,Australian Gold
+710,37,Male,heart disease,2/5/2006,Morphine Sulfate
+711,80,Male,diabetes,10/20/2012,ACT Restoring Anticavity Fluoride Cool Mint
+712,56,Female,heart disease,9/12/2021,Gas Relief Extra Strength
+713,29,Female,asthma,1/14/2022,Tetrofosmin
+714,53,Female,stroke,3/18/2012,Risperidone
+715,23,Female,heart disease,6/4/2013,Stool Softener and Stimulant Laxative
+716,55,Male,asthma,11/11/2000,TERUFLEX Blood Bag System Anticoagulant Citrate Phosphate Dextrose (CPD) AND OPTISOL Red Cell Preservative
+717,22,Female,asthma,9/5/2004,Pristiq
+718,30,Female,stroke,5/27/2004,Citalopram
+719,76,Male,cancer,2/28/2003,severe sinus congestion
+720,30,Male,stroke,5/6/2001,Aplicare Povidone-iodine Scrub
+721,78,Male,cancer,1/5/2015,Tramadol Hydrochloride
+722,35,Female,heart disease,10/27/2018,Candesartan cilexetil
+723,61,Female,stroke,1/30/2020,Sweet Honey Antibacterial Hand Wash
+724,29,Female,cancer,7/28/2017,CIPROFLOXACIN
+725,49,Male,asthma,3/15/2006,Trazodone Hydrochloride
+726,23,Male,asthma,9/19/2020,Good Neighbor Pharmacy
+727,47,Male,diabetes,6/13/2004,Fluoride
+728,50,Female,stroke,3/24/2007,ShopRite Ibuprofen
+729,79,Female,stroke,4/14/2016,ROSACEA FREE
+730,30,Male,stroke,6/19/2020,Head and Shoulders Classic Clean Dandruff
+731,20,Male,stroke,4/6/2012,LBEL NATURAL FINISH MOISTURIZING FOUNDATION SPF 25
+732,73,Male,stroke,8/21/2020,Buxom Show Some Skin Weightless Foundation Broad Spectrum SPF 30
+733,41,Male,asthma,7/5/2005,SaniFoam
+734,24,Female,heart disease,7/8/2019,Healthy Accents infants pain and fever
+735,20,Male,asthma,3/10/2015,Triple Antibiotic Plus
+736,61,Male,stroke,3/23/2020,Medium Deep Warm Perfecting Makeup Broad Spectrum SPF 25
+737,24,Female,diabetes,11/24/2005,EAR
+738,51,Male,diabetes,12/20/2001,Groundsel
+739,27,Male,asthma,5/4/2008,CLE DE PEAU BEAUTE
+740,58,Female,heart disease,11/30/2011,SPIRONOLACTONE
+741,22,Male,stroke,10/21/2007,Carbidopa and levodopa
+742,76,Male,asthma,11/21/2008,ZALEPLON
+743,75,Female,cancer,9/12/2002,Broncomar
+744,33,Male,asthma,8/3/2013,Night Time
+745,37,Male,stroke,6/12/2015,Dorzolamide Hydrochloride and Timolol Maleate
+746,67,Female,heart disease,9/2/2017,Bupropion hydrochloride
+747,80,Male,heart disease,7/1/2022,Red Cedar
+748,51,Female,cancer,3/1/2009,LEVOTHYROXINE SODIUM
+749,31,Female,cancer,4/6/2017,Nighttime Sleep Aid
+750,23,Female,diabetes,4/9/2014,Hypericum Bryophyllum
+751,36,Female,stroke,4/7/2009,Ethambutol Hydrochloride
+752,32,Female,diabetes,8/29/2015,Claritin
+753,66,Genderqueer,asthma,2/6/2014,GB-Tone
+754,53,Male,heart disease,8/24/2000,Hydrocodone Bitartrate And Acetaminophen
+755,35,Male,stroke,5/3/2004,DR. MERCOLA Sunscreen Broad Spectrum SPF-30
+756,55,Female,diabetes,8/25/2020,METOZOLV
+757,56,Female,cancer,3/31/2007,Humalog
+758,72,Non-binary,cancer,1/24/2017,Lamotrigine
+759,27,Male,heart disease,10/22/2017,Simvastatin
+760,53,Female,diabetes,12/2/2011,Guaifenesin and Codeine Phosphate
+761,62,Male,diabetes,3/28/2011,SORE NO MORE
+762,44,Female,stroke,5/6/2017,Actoplus Met
+763,68,Male,cancer,12/5/2006,CEFTRIAXONE
+764,60,Female,heart disease,1/5/2019,Auro-Dri
+765,55,Male,stroke,12/28/2015,Waterless Anti-Bacterial Hand Cleanser
+766,27,Male,asthma,9/28/2013,OHUI Sun Science Powder Sun Block Natural Skin
+767,70,Male,heart disease,1/19/2011,Argentum Bryophyllum
+768,33,Male,diabetes,1/3/2015,Erythrocin Lactobionate
+769,56,Female,diabetes,2/4/2006,Topcare Nasal Four
+770,27,Female,cancer,10/10/2020,Clindamycin Hydrochloride
+771,53,Female,heart disease,10/13/2014,Oxycodone and Acetaminophen
+772,53,Female,diabetes,7/13/2009,Eye Wash
+773,78,Female,heart disease,11/5/2012,Granisetron Hydrochloride
+774,74,Genderqueer,heart disease,3/3/2002,VANILLA
+775,67,Male,diabetes,5/5/2017,Valtrum US Aerobic Sport IMMEDIATE ACTION
+776,62,Male,stroke,12/10/2020,ELIGARD
+777,58,Female,diabetes,11/9/2014,TAZORAC
+778,25,Female,diabetes,1/31/2018,Dove
+779,66,Female,heart disease,2/11/2007,Bumetanide
+780,71,Female,cancer,11/4/2007,Amlodipine Besylate
+781,47,Female,asthma,5/29/2002,BURNING DIARRHEA
+782,72,Male,diabetes,1/16/2015,PRAVASTATIN SODIUM
+783,72,Male,cancer,6/8/2003,Nicotine Transdermal System
+784,52,Female,asthma,4/14/2019,Health Smart Baby
+785,23,Female,heart disease,2/25/2001,Allergy Relief D
+786,70,Male,heart disease,11/13/2008,Speed Stick
+787,71,Female,diabetes,2/3/2010,isosorbide mononitrate
+788,31,Female,cancer,1/4/2002,PERFECTION LUMIERE VELVET
+789,79,Female,heart disease,6/26/2020,NorelCS
+790,54,Male,asthma,4/12/2017,Femmesil Creme
+791,41,Male,heart disease,1/13/2014,Triclonex T2
+792,59,Female,asthma,12/17/2011,Sinusalia
+793,45,Female,cancer,6/25/2000,Cough Syrup Formula
+794,33,Female,stroke,1/26/2000,Mary Kay CC Cream Sunscreen Broad Spectrum SPF 15 Medium to Deep
+795,41,Female,heart disease,9/17/2018,Rheumatoid Arthritis Nosode
+796,53,Female,cancer,10/17/2012,Meloxicam
+797,57,Female,heart disease,11/1/2020,Topicort
+798,77,Male,diabetes,8/21/2007,Piroxicam
+799,58,Female,asthma,6/24/2016,PISTACHIO
+800,60,Male,cancer,9/30/2017,Obao Frescura Suave
+801,43,Male,heart disease,7/5/2003,Lactovit Men Roll-On Antiperspirant Deodorant
+802,43,Male,diabetes,10/21/2003,Olanzapine
+803,37,Male,diabetes,6/8/2015,Estradiol / Norethindrone Acetate
+804,59,Female,asthma,3/23/2013,Acne Solution
+805,80,Female,cancer,1/2/2006,arthricream
+806,44,Male,stroke,5/10/2022,meloxicam
+807,52,Female,asthma,5/19/2012,Covergirl Outlast Stay Fabulous 3in1 Foundation
+808,50,Female,cancer,1/1/2004,Aire-Master
+809,33,Male,heart disease,1/13/2010,Codfish
+810,44,Female,heart disease,3/15/2014,triple antibiotic
+811,37,Female,stroke,8/5/2003,RITUALS precious mineral foundation broad spectrum SPF 15 sunscreen SHADE 14
+812,62,Bigender,asthma,9/22/2007,Haddock
+813,27,Male,cancer,12/11/2003,NAPROXEN
+814,76,Male,diabetes,10/16/2007,Silver Maple
+815,60,Male,heart disease,3/20/2002,Capsicum Chamomilla
+816,75,Female,cancer,7/28/2017,Magnesium Sulfate in Dextrose
+817,63,Non-binary,heart disease,10/8/2022,LBEL EFFET PARFAIT filling effect foundation SPF 10 - CLAIRE 2
+818,72,Female,asthma,7/22/2014,Mirtazapine
+819,38,Polygender,asthma,5/22/2022,Metformin Hydrochloride
+820,72,Male,asthma,12/10/2005,Buxom Show Some Skin Weightless Foundation Broad Spectrum SPF 30
+821,49,Female,cancer,1/23/2002,Levetiracetam
+822,77,Male,heart disease,1/9/2005,Thiothixene
+823,24,Female,diabetes,9/14/2018,Milk of Magnesia
+824,31,Genderqueer,diabetes,12/30/2014,Hydroxyzine
+825,56,Female,asthma,8/24/2005,Nizatidine
+826,61,Male,heart disease,6/12/2007,anti bacterial hand sanitizer
+827,69,Female,cancer,12/10/2022,Berkley and Jensen Ranitidine
+828,76,Male,diabetes,12/19/2005,Sunmark fiber laxative
+829,32,Non-binary,diabetes,2/15/2015,TISSEEL
+830,22,Female,heart disease,2/27/2018,leader nite time
+831,61,Female,diabetes,8/1/2010,Reef Safe SPF 50
+832,66,Female,cancer,6/26/2018,SMJ Antibacterial Hand
+833,44,Female,asthma,7/24/2009,VERELAN
+834,63,Female,cancer,8/8/2000,Pomegranate Hand Sanitizer
+835,37,Female,stroke,4/6/2019,Fluorouracil
+836,53,Female,heart disease,2/5/2004,PredniSONE
+837,47,Female,stroke,7/2/2020,CELEBREX
+838,55,Male,heart disease,4/5/2011,Clonazepam
+839,66,Male,heart disease,8/16/2022,ERY-TAB
+840,30,Male,stroke,7/2/2018,Synarel
+841,26,Male,diabetes,1/3/2013,PRAVASTATIN SODIUM
+842,35,Male,diabetes,4/12/2001,KONSYL Daily Therapy Fiber
+843,50,Female,asthma,10/21/2019,PEDIARIX
+844,24,Female,stroke,1/20/2004,LORATADINE
+845,80,Male,stroke,2/26/2009,ibuprofen
+846,79,Male,asthma,3/26/2007,Dermablend Professional SkinPerfector Blemish and Oil Clearing Primer
+847,29,Male,stroke,3/4/2017,Laxative
+848,69,Male,stroke,3/7/2001,Metoprolol Tartrate
+849,54,Male,stroke,12/18/2008,Isopropyl Alcohol
+850,61,Male,stroke,2/20/2013,Furosemide
+851,38,Male,diabetes,4/27/2011,Sepia 30c
+852,52,Male,asthma,6/10/2008,Chloraseptic Sore Throat Citrus
+853,69,Female,asthma,2/22/2022,Clonazepam
+854,52,Female,asthma,10/14/2002,"PEG-3350, sodium chloride, sodium bicarbonate and potassium chloride"
+855,68,Agender,diabetes,11/3/2010,MBM 12 Male Unresponsive
+856,46,Male,stroke,4/24/2015,Amlodipine Besylate
+857,29,Female,cancer,9/19/2012,Berberis Quartz
+858,27,Female,stroke,8/1/2013,Miracle Worker SPF 55
+859,57,Male,cancer,4/3/2019,Smooth Brome
+860,62,Female,stroke,12/27/2011,Good Sense Nasal
+861,53,Female,stroke,5/11/2006,flormar REBORN FOUNDATION SUNSCREEN BROAD SPECTRUM SPF 20 SF30 Caramel
+862,39,Genderfluid,asthma,3/1/2018,Naproxen
+863,52,Female,stroke,4/21/2019,Vesica urinaria 8 Special Order
+864,43,Female,diabetes,1/11/2015,NAPROXEN SODIUM
+865,50,Male,asthma,6/5/2022,Tizanidine Hydrochloride
+866,35,Male,stroke,3/14/2000,citroma
+867,37,Male,heart disease,7/9/2016,Levetiracetam
+868,64,Female,heart disease,4/12/2018,Carisoprodol and Aspirin
+869,69,Male,heart disease,9/28/2015,Clorazepate Dipotassium
+870,47,Female,stroke,11/7/2010,PURE SHEER
+871,22,Female,stroke,9/8/2007,NERVE TONIC STRESS RELIEF
+872,52,Male,heart disease,8/3/2013,LEADER Mild Iodine
+873,50,Female,cancer,8/9/2015,Aveeno Protect Plus Hydrate Sunscreen
+874,40,Male,asthma,8/6/2015,ATACAND HCT
+875,71,Male,asthma,9/23/2004,E-2 Cleanser Sanitizer 86
+876,21,Male,diabetes,7/5/2000,Bupropion Hydrochloride
+877,26,Non-binary,cancer,12/17/2006,Lidocaine
+878,61,Female,stroke,4/16/2016,sunmark allergy multi symptom
+879,68,Female,diabetes,4/23/2009,Agropharma Isopropyl Alcohol
+880,31,Male,cancer,9/12/2021,anti nausea
+881,50,Male,cancer,7/29/2010,NATURCOKSINUM
+882,61,Female,stroke,2/21/2003,Nalbuphine Hydrochloride
+883,67,Female,heart disease,8/23/2009,Nurture Barrier
+884,21,Male,asthma,4/15/2012,100% Pure Argan Oil Moisturizer
+885,61,Male,diabetes,12/7/2022,Benicar
+886,50,Non-binary,heart disease,3/3/2000,Diphenhydramine Hydrochloride
+887,26,Male,heart disease,4/28/2008,Solidago Compositum
+888,27,Female,diabetes,8/7/2013,Neutrogena TGel Therapeutic Conditioner
+889,44,Female,cancer,5/20/2001,Nodolor
+890,45,Female,cancer,5/1/2005,Bug Bites - Itch Stopper
+891,71,Male,asthma,5/17/2014,FREDS DRY EYE RELIEF
+892,24,Female,diabetes,3/14/2003,Severe Cold Relief PE
+893,58,Male,heart disease,1/6/2006,Black Birch
+894,23,Female,stroke,1/11/2014,pseudoephedrine hydrochloride
+895,39,Female,heart disease,6/24/2021,Naproxen
+896,80,Male,heart disease,1/13/2005,Midazolam HCl
+897,21,Male,asthma,10/24/2002,Zolpidem Tartrate
+898,72,Male,asthma,2/23/2012,Effexor
+899,77,Female,diabetes,6/24/2014,Alba Natural Acnedote Wash
+900,23,Male,heart disease,9/27/2021,Minitran
+901,73,Female,heart disease,5/1/2021,STELARA
+902,58,Female,cancer,10/21/2002,ALLIUM CEPA
+903,62,Non-binary,stroke,7/11/2021,Ranitidine
+904,64,Male,diabetes,2/24/2006,Walgreens Chap Aid Cherry Lip Balm
+905,68,Female,stroke,9/19/2010,Oxcarbazepine
+906,55,Female,cancer,10/3/2021,"Alka-Seltzer Plus Max Cough, Mucus and Congestion"
+907,78,Male,asthma,10/14/2010,Sterillium Comfort
+908,76,Male,diabetes,10/22/2010,"Food - Plant Source, Apple Malus sp."
+909,49,Male,cancer,5/27/2015,AMBROSIA PSILOSTACHYA POLLEN
+910,22,Male,stroke,1/11/2012,Beauty Dynamics
+911,36,Male,stroke,11/26/2003,Glytone skin bleaching fading
+912,68,Female,asthma,2/27/2014,Clindamycin Hydrochloride
+913,66,Female,cancer,11/16/2017,"Dust, House Mixture"
+914,41,Male,cancer,11/27/2001,Potassium Acetate
+915,39,Female,asthma,8/3/2006,Pertussis
+916,47,Female,asthma,9/13/2016,Dry Scalp Care
+917,67,Male,stroke,6/2/2012,good sense flu and severe cold and cough
+918,64,Male,diabetes,11/5/2015,Simvastatin
+919,38,Agender,asthma,3/3/2004,PediaCare Gas Relief Drops Dye Free
+920,37,Male,heart disease,4/17/2020,Xanax
+921,40,Female,heart disease,7/16/2018,Vancomycin Hydrochloride
+922,69,Female,asthma,8/28/2006,Nighttime Fast Sleep Aid
+923,26,Female,diabetes,3/27/2010,Oxygen
+924,63,Female,stroke,4/14/2016,Oxygen
+925,22,Male,heart disease,4/28/2003,Ampicillin
+926,66,Male,asthma,8/27/2004,Monistat 7 Combination Pack
+927,49,Male,cancer,5/21/2009,Minocycline Hydrochloride
+928,34,Female,diabetes,9/3/2011,Sertraline
+929,57,Female,asthma,3/12/2017,Hydrocodone Bitartrate and Homatropine Methylbromide
+930,79,Female,diabetes,5/29/2008,Edometriosis
+931,55,Female,heart disease,7/25/2010,Sodium Bicarbonate
+932,38,Male,diabetes,12/2/2020,Fexofenadine Hydrochloride
+933,50,Female,cancer,12/29/2016,Slimming Sap Patch
+934,79,Female,heart disease,5/1/2010,Tobacco Withdrawal
+935,49,Male,asthma,10/11/2021,Rizatriptan Benzoate
+936,59,Male,asthma,7/7/2005,Mental Alertness For Seniors
+937,38,Female,cancer,8/28/2003,Topotecan
+938,53,Female,diabetes,7/4/2006,Anticavity
+939,57,Male,stroke,5/2/2008,Solution
+940,80,Male,heart disease,3/31/2013,CARE ONE
+941,38,Female,diabetes,10/17/2017,Condylomata Remedy
+942,72,Male,diabetes,8/14/2009,CLADOSPORIUM CLADOSPORIOIDES
+943,67,Female,heart disease,1/26/2001,Ondansetron Hydrochloride
+944,26,Male,stroke,7/12/2022,Cromolyn Sodium
+945,53,Male,cancer,7/4/2012,Junior Strength Pain and Fever Relief Wild Cherry
+946,63,Female,heart disease,9/15/2018,REQUIP
+947,72,Non-binary,heart disease,5/17/2001,Sumatriptan Succinate
+948,43,Non-binary,asthma,6/16/2004,Prograf
+949,22,Female,diabetes,11/16/2005,Anecream 5
+950,39,Male,heart disease,6/11/2003,Estradiol
+951,43,Male,heart disease,4/15/2011,Allergy Relief D
+952,80,Female,heart disease,4/12/2019,Aspirin
+953,62,Male,stroke,3/21/2008,Air
+954,61,Female,stroke,2/5/2020,Allergy Complete Relief
+955,32,Male,stroke,8/8/2014,Oxacillin
+956,67,Male,cancer,6/7/2012,Losartan Potassium and Hydrochlorothiazide
+957,40,Male,stroke,1/20/2016,Pain Relief
+958,67,Male,diabetes,2/4/2009,Promethazine Hydrochloride
+959,45,Male,asthma,3/10/2015,Major Camphor and Phenol
+960,62,Agender,heart disease,1/12/2021,COCOA BEAN
+961,75,Female,asthma,2/25/2005,GFA First Aid
+962,20,Male,asthma,10/13/2013,CVS Hemorrhoidal
+963,31,Male,asthma,12/14/2014,topcare arthritis pain
+964,45,Male,diabetes,5/9/2008,Laxative
+965,65,Female,stroke,5/10/2003,ADSOL Red Cell Preservation Solution System in Plastic Container (PL 146 Plastic)
+966,56,Female,asthma,6/29/2012,"Pollens - Grasses, Bahia Grass Paspalum notatum"
+967,28,Male,heart disease,6/25/2009,Secret Outlast and Olay
+968,21,Female,heart disease,4/3/2015,"Fentanyl Citrate, Bupivacaine HCl"
+969,76,Female,diabetes,9/22/2004,CEFPODOXIME PROXETIL
+970,59,Male,asthma,7/8/2016,Olay Fresh Effects BB
+971,60,Male,cancer,1/16/2017,Antibiotic
+972,32,Female,diabetes,5/27/2015,Oxygen
+973,78,Male,asthma,6/3/2006,Stay Well
+974,41,Female,diabetes,6/27/2003,lice kit
+975,61,Male,diabetes,8/29/2010,SHISEIDO SUN PROTECTION FOUNDATION
+976,48,Male,heart disease,8/18/2020,Renotox
+977,25,Male,cancer,3/16/2005,ZHENG GU SHUI
+978,25,Female,diabetes,10/21/2015,Ellence
+979,37,Male,asthma,9/3/2006,LBEL NATURAL FINISH MOISTURIZING FOUNDATION SPF 25
+980,65,Male,stroke,7/14/2018,Metoprolol Tartrate
+981,29,Female,cancer,8/7/2015,Azathioprine
+982,23,Female,asthma,5/6/2018,Lidocaine Hydrochloride
+983,43,Female,stroke,7/7/2000,Dorzolamide Hydrochloride
+984,50,Male,diabetes,11/5/2014,Neomycin and Polymyxin B Sulfates and Hydrocortisone
+985,79,Male,cancer,1/27/2001,Promethazine HCl
+986,51,Female,diabetes,1/27/2007,zonnic nicotine polacrilex
+987,34,Female,diabetes,3/29/2009,TOPCARE
+988,80,Female,diabetes,4/26/2009,GABAPENTIN
+989,39,Male,diabetes,3/12/2017,Aspiring
+990,37,Female,stroke,10/19/2005,Stool Softener
+991,29,Male,stroke,10/28/2013,BUDEPRION
+992,71,Male,asthma,4/23/2018,SORGHUM HALEPENSE POLLEN
+993,62,Male,cancer,6/25/2007,ACT Restoring Anticavity Fluoride Cool Mint
+994,30,Female,stroke,11/9/2002,White Fish
+995,59,Female,diabetes,10/18/2001,Atorvastatin Calcium
+996,71,Female,stroke,8/7/2000,Metformin Hydrochloride
+997,55,Female,stroke,1/4/2017,Cultivated Oat Pollen
+998,63,Genderqueer,diabetes,9/21/2001,Bio Water Violet
+999,36,Female,heart disease,2/2/2022,Piranha Brand Foaming Antibacterial Hand
+1000,78,Female,asthma,8/8/2005,Oraverse

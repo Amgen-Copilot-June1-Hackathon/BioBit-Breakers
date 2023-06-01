@@ -1,0 +1,14 @@
+{
+  "name": "Hackathon devcontainer",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "github.copilot",
+        "MS-vsliveshare.vsliveshare",
+        "ms-python.python",
+        "ms-python.pylint"
+      ]
+    }
+  }
+//   "postCreateCommand": "npm install"
+}
